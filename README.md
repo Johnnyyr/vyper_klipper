@@ -93,9 +93,9 @@ Kein Anspruch auf Vollständigkeit.
 
 ## 5. Benutzeroberfläche, Vorlagen und Makros einrichten
 
-Am besten ihr schaut ihr dieses Video vom „Cryd-Team“ an, besser kann man es nicht erklären https://youtu.be/6RBNRVgC2Go?t=549
+Am besten ihr schaut ihr dieses Video vom [„Cryd-Team“](https://youtu.be/6RBNRVgC2Go?t=549) an, besser kann man es nicht erklären 
 
-Macros etc. bekommt auf dem Git vom „Cryd-Team“ oder direkt bei [Klipper](klipper/sample-macros.cfg at master · Klipper3d/klipper · GitHub](https://github.com/Klipper3d/klipper/blob/master/config/sample-macros.cfg)
+Macros etc. bekommt auf dem Git vom „Cryd-Team“ oder direkt bei [Klipper](https://github.com/Klipper3d/klipper/blob/master/config/sample-macros.cfg)
 
 ## 6. Sensor testen und einrichten
 
