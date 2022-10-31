@@ -88,7 +88,7 @@ Kein Anspruch auf Vollständigkeit.
 - [Vorlagen](https://github.com/Klipper3d/klipper/tree/master/config) für eure Firmware je nach Drucker, liegen aber auch schon auf dem Pi und können kopiert werden
 - Fertige Firmware Vorlagen findet ihr haufenweise im Netz z.B. für Vyper oder Ender 3, mit oder ohne Bltouch
 - Schaut vorher nach, welches Mainboard in eurem Drucker verbaut ist.
-- mit Shift+Command+X könnt ihr im Raspberry Pi Imager](https://www.raspberrypi.com/software/) das WLAN einstellen und weiter Optionen einstellen - Username auf "pi" lassen.
+- mit Shift+Command+X könnt ihr im [Raspberry Pi Imager](https://www.raspberrypi.com/software/) das WLAN einstellen und weiter Optionen einstellen - Username auf "pi" lassen.
 - wenn es nicht gleich klappt, bekommt ihr bestimmt Hilfe auf diversen Discord-Servern oder Foren. (links ganz unten)
 
 ## 5. Benutzeroberfläche, Vorlagen und Makros einrichten
