@@ -135,5 +135,13 @@ Anleitung: [Calibrating probe X and Y offsets](https://www.klipper3d.org/Probe_C
 
     Für Bl-Touch macht ihr hier PROBE_CALIBRATE und für den Vyper ohne Z_ENDSTOP_CALIBRATE
     
+***Speichern oben Rechts in Mainsail nicht vergessen, Mainsail durchstarten.***
 
+
+### Heigtmap in Mainsail erstellen
+
+    Rechts im Menü auf heigthmap klicken und dann auf calibration, den default namen nicht ändern. 
+
+
+***Speichern oben Rechts in Mainsail nicht vergessen, Mainsail durchstarten.***
 
