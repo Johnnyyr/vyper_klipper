@@ -1,4 +1,4 @@
-# Linkliste 3D-Drucker
+# Linkliste 3D-Drucker Beta
 ### 1. Software
     a) Klipper
     c) Slicer
