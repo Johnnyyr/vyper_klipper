@@ -4,6 +4,11 @@
 
 Da ich doch einige Probleme hatte mir alle Daten zusammen zu suchen, hier meine Erfahrungen, Links und Tipps.
 
+Kurz zu Klipper: 
+
+Im Gegensatz zur Marlin Firmware, läuft die Berechnung der Bewegungsdaten auf dem Pi und nicht auf dem Mainboard. Das ermöglicht schnelleres Drucken, bei gleichbleibenden oder sogar besseren Ergebnis. Der wohl größte Vorteil ist die Änderung der Firmware ohne lästiges flashen.
+
+
 > Ich verlinke immer auf die Original-Doku in Englisch, ist gibt aber auch eine [Übersetzung](https://crydteam.gitbook.io/crydteam-wiki/3d-druck/faq/deutsch-uebersetzung-klipper-dokumentation) von J. Müller auf Deutsch, danke dafür. Die meisten Erklärungen beziehen sich auf den Vyper und Mainsail.
 > 
 
@@ -28,9 +33,10 @@ Kein Anspruch auf Vollständigkeit.
 - Firmware
   
   - [Klipper](https://www.klipper3d.org/) (Firmware für den Drucker)
-- Oberfläche/Benutzerschnittstelle
   
-  - [Mainsail](https://github.com/mainsail-crew/mainsail)
+- OS/Oberfläche/Benutzerschnittstelle
+  
+  - [MainsailOS](https://github.com/mainsail-crew/mainsail)
     
   - [Fluidd](https://github.com/fluidd-core/fluidd)
     
@@ -42,7 +48,7 @@ Kein Anspruch auf Vollständigkeit.
   
   - [Raspbian Pi OS](https://www.raspberrypi.com/software/)
     
-  - [KIAUH](https://github.com/th33xitus/kiauh) - Skriptsammlung (quasi die All-in-one-Lösung) -Empfehlung
+  - [KIAUH](https://github.com/th33xitus/kiauh) - Skriptsammlung (quasi die All-in-one-Lösung) *Empfehlung*
     
 - Tools
   
