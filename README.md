@@ -1,12 +1,12 @@
 # Vyper Klipper
 
-# Anycubic Vyper Klipper installieren u. Kalibrieren
+# Anycubic Vyper Klipper installieren u. kalibrieren
 
 Da ich doch einige Probleme hatte mir alle Daten zusammen zu suchen, hier meine Erfahrungen, Links und Tipps.
 
 Kurz zu Klipper: 
 
-Im Gegensatz zur Marlin Firmware, läuft die Berechnung der Bewegungsdaten auf dem Pi und nicht auf dem Mainboard. Das ermöglicht schnelleres Drucken, bei gleichbleibenden oder sogar besseren Ergebnis. Der wohl größte Vorteil ist die Änderung der Firmware ohne lästiges flashen.
+Im Gegensatz zur Marlin Firmware läuft die Berechnung der Bewegungsdaten auf dem Pi und nicht auf dem Mainboard. Das ermöglicht schnelleres Drucken bei gleichbleibenden oder sogar besseren Ergebnis. Der wohl größte Vorteil ist die Änderung der Firmware ohne lästiges Flashen.
 
 
 > Ich verlinke immer auf die Original-Doku in Englisch, ist gibt aber auch eine [Übersetzung](https://crydteam.gitbook.io/crydteam-wiki/3d-druck/faq/deutsch-uebersetzung-klipper-dokumentation) von J. Müller auf Deutsch, danke dafür. Die meisten Erklärungen beziehen sich auf den Vyper und Mainsail.
