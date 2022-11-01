@@ -216,7 +216,10 @@ END_PRINT
 
 Klipper ist installiert und die Grundkonfigurationen sind eingetragen und kalibriert. Jetzt müssen noch ein paar Einstellungen im SuperSlicer gemacht werden, um dafür die richtigen Werte zu finden, bietet euch SuperSlicer eine Menge Kalibrierungstools, die euch das Leben echt einfacher machen. Natürlich gibt es auch wieder ein Video vom "Cryd-Team" dazu schaut euch mal die [Playlist](https://www.youtube.com/watch?v=DN3v1cmLSM8&list=PLWqnUinimMN3Upj3a3BzVFsixutHB0ZP5&index=4) an, wir sind jetzt beim Teil 4.
 
-Wenn ihr das alles gemacht habt und die Drucke halbwegs sauber aussehen, Glückwunsch! Für alle Neuling, keine Angst das Kalibrieren, verbessern geht immer weiter. Ein anderes Filament und vieles geht von vorne los. Man gewöhnt sich dran und lernt nie aus. Viel Erfolg!
+Wenn ihr das alles gemacht habt und die Drucke halbwegs sauber aussehen, Glückwunsch! Falls ihr nicht zum Ziel kommt, fragt im Discord oder z.B. im Forum der [3D Druck Community](https://www.3d-druck-community.de), da kannst du einen Einstellfahrplan machen und bekommst sehr professionellen Support. 
+
+Für alle Neuling, keine Angst das Kalibrieren, verbessern geht immer weiter. Ein anderes Filament und vieles geht von vorne los. Man gewöhnt sich dran und lernt nie aus. Viel Erfolg!
+
 
 ## Danksagung
 
