@@ -1,6 +1,6 @@
 # Vyper Klipper
 
-Anycubic Vyper Klipper installieren u. Kalibrieren, funktioniert auch für die meisten anderen Drucker, ihr müsst nur die Werte und Config-Dateien von euren Druckern schreiben oder aus "guten" Quellen kopieren und nicht einfach unbedacht „Copy-and-paste“.
+# Anycubic Vyper Klipper installieren u. Kalibrieren
 
 Da ich doch einige Probleme hatte mir alle Daten zusammen zu suchen, hier meine Erfahrungen, Links und Tipps.
 
